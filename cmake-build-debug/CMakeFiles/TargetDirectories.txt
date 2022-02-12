@@ -1,0 +1,3 @@
+C:/Users/serge/CLionProjects/structures_&_arrays/cmake-build-debug/CMakeFiles/structures___arrays.dir
+C:/Users/serge/CLionProjects/structures_&_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/serge/CLionProjects/structures_&_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
